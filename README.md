@@ -1,3 +1,3 @@
-## 수학 계산을 위한 코드를 제공하는 프로젝트 !!
-**1. calculator.py** :  `계산기`에 있는 기능을 제공하는 모듈
+## Hyundai 1th project!!
+** JSP & Servlet ** :  한섬 쇼핑몰 기반 리셀 플랫폼 
 - add,subtract 등
