@@ -2,8 +2,8 @@
 **Hyundai 1th JSP &amp; Servlet project** : 
 -`HTML`
 -`CSS`
--'Java'
--'JSP'
--'Servlet'
--'Oracle cloud'
--'JS'
+-`Java`
+-`JSP`
+-`Servlet`
+-`Oracle cloud`
+-`JS`
